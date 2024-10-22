@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    left: 0;
+    right: 0;
+}
+.Ozim{
+    background: linear-gradient(to bottom left, #269197,#000000a2,#269197);
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.text h1{
+    text-shadow: 10px 10px 10px rgba(128, 255, 0, 0.721);
+    color: rgb(108, 214, 3);
+    font-family: cursive;
+    max-width: 500px;
+    margin-left: 50px;
+}
+
+ h3{
+    text-shadow: 10px 10px 10px rgba(128, 255, 0, 0.721);
+    color: rgb(108, 214, 3);
+    font-family: cursive;
+    max-width: 600px;
+}
+.rasim h5{
+    text-shadow: 10px 10px 10px rgba(128, 255, 0, 0.721);
+    color: rgb(108, 214, 3);
+    font-family: cursive;
+}
+
+.button1{
+    width: 120px;
+    height: 50px;
+    border-radius: 20px;
+    font-family: cursive;
+    background: linear-gradient(to bottom left, #833ab4,#fd1d1d,#fcb045);
+    border: none;
+    color: white;
+    font-family: cursive;
+}
+.button2{
+    width: 120px;
+    height: 50px;
+    border-radius: 20px;
+    font-family: cursive;
+    background-color: #0088cc;
+    border: none;
+    color: white;
+    font-family: cursive;
+}
+p{
+    text-shadow: 10px 10px 10px rgba(128, 255, 0, 0.721);
+    color: white;
+    font-family: cursive;
+    text-align: center;
+}
+.btnmore{
+    max-width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    font-family: cursive;
+    border: none;
+    box-shadow: 0px 0px 10px 5px rgba(128, 255, 0, 0.721);
+    background: rgb(108, 214, 3);
+    color: white;
+}
+.btnmore:hover {
+    background: #45a049;
+}
+
+.more1{
+    max-width: 700px;
+    max-height: 300px;
+    box-shadow: 0px 0px 10px 5px rgba(128, 255, 0, 0.721);
+    background: rgb(108, 214, 3);
+    border-radius: 20px;
+}
+.malumot {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+.formContainer {
+    box-shadow: 0px 0px 10px 5px rgba(128, 255, 0, 0.721);
+    background-color: rgb(108, 214, 3);
+    max-width: 450px;
+    padding: 20px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid rgb(108, 214, 3);
+    border-radius: 4px;
+}
+.malbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.malbtn:hover {
+    background-color: #45a049;
+}
+.safari{
+    width: 370px;
+    height: 150px;
+    background-color: rgba(108, 214, 3, 0.872);
+    border-radius: 20px;
+}
+
+.lion{
+    max-width: 130px;
+    height: 130px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px 5px rgb(214, 175, 3);
+}
+.saftext{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgba(250, 205, 5, 0.744);
+    text-shadow:0px 0px 10px rgb(250, 212, 44);
+}
+.safbtn{
+    background-color: rgba(250, 205, 5, 0.744);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.land{
+    max-width: 130px;
+    height: 130px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px 5px rgb(58, 58, 58);
+}
+.lantext{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(58, 58, 58);
+    text-shadow:0px 0px 10px rgb(58, 58, 58);
+}
+.lanbtn{
+    background-color: rgb(58, 58, 58);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+
+
+
