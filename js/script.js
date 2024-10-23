@@ -1,6 +1,5 @@
 const body = document.querySelector('body')
 const button = document.querySelector('button')
-const more1 = document.querySelector('.more1')
 
 
 
@@ -13,17 +12,7 @@ function bos1() {
 };
 
 
-function more() {
-        if (more1.classList.contains('flex')) {
-            more1.classList.remove('flex');
-            more1.classList.add('block');
-            more1.innerHTML ="<p>Men Isaqov Fazliddin Faxriddinovich  Uzbekistan respublikasi, Fargon viloyati, Bagdod tumanida, istihomad qilaman. Tugilgan yilim 2007-06-25. Qiziqishlari: futbol, kampiyuter oyinlari,kitob mutolaa qilish va .    Hozirda Web dasturlash boyicha Frontend dasturchiman.</p>";
-          } else {
-            more1.classList.remove('block');
-            more1.classList.add('flex');
-            more1.innerHTML = '';
-          }
-}
+
 
 
 
